@@ -15,4 +15,4 @@ Example
  
 ```
 
-All the Result Objcts have the JsonString property if you need the json string returned from bit.ly
+All the Result Objects have the JsonString property if you need the json string returned from bit.ly

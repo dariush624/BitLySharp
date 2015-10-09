@@ -17,4 +17,4 @@ Example
 
 All the Result Objects have the JsonString property if you need the json string returned from bit.ly
 
-You can download the nuget package from here https://www.nuget.org/packages/BitLySharp/
+

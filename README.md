@@ -3,7 +3,7 @@
 
 Example
 ```c#
-//Password Authentication
+ //Password Authentication
  BitLy client = new BitLy("CLIENT_ID", "CLIENT_SECRET", GrantType.Password, "username", "password");
  AuthenticationInfo info = await client.GetAccessTokenAsync(); //Get Access Token
  LinkInfo linfo = await client.GetUrlInfoAsync(info.AccessToken, "http://bit.ly/1RmnUT", "http://bit.ly/ze6poY" );
